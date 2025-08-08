@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+requests
+beautifulsoup4
+python-dateutil
+openpyxl
+seaborn
+matplotlib
+altair
